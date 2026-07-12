@@ -34,4 +34,4 @@ L'objectif de ce projet est d'analyser la consommation électrique au Maroc, mes
 
 ## Analyse de la Saisonnalité et Impact Météorologique (Visualisations)
 
-![Graphiques combinés des corrélations météo et de la consommation électrique](notebooks/)
+![Graphiques combinés des corrélations météo et de la consommation électrique](notebooks/dashboard_meteo_consommation.png)
