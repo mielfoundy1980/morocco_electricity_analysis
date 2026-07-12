@@ -1,0 +1,7 @@
+Dataset: Morocco Electricity Consumption
+Source: UCI Machine Learning Repository
+License: CC BY 4.0
+
+Les données sources n'ont pas été incluses dans ce dépôt pour des raisons de volumétrie. 
+Elles contiennent des mesures à intervalles de 10 minutes à travers 3 zones, 
+incluant la température, l'humidité et la vitesse du vent.
