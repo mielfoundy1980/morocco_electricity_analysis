@@ -1,7 +1,7 @@
 # Titre du Projet : End-to-End Data Pipeline & Analyse de la Consommation Électrique au Maroc
 
 ## Rôle : Data Engineer / Data Analyst
-## Technologies : MySQL, Python (Pandas, Seaborn), JupyterDash
+## Technologies : MySQL, Python (Pandas, Seaborn & matplotlib.pyplot)
 
 ## Contexte et Objectifs
 L'objectif de ce projet est d'analyser la consommation électrique au Maroc, mesurée à des intervalles de 10 minutes à travers trois zones géographiques distinctes. L'analyse croise ces données avec des facteurs météorologiques clés pour identifier les modèles saisonniers et les principaux moteurs de la demande énergétique.
