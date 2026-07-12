@@ -1,3 +1,9 @@
+/*
+=============================================================================
+COUCHE BRONZE : INGESTION DES DONNÉES BRUTES
+Objectif : Sécuriser l'importation sans perte ni erreur de formatage.
+=============================================================================
+*/
 CREATE TABLE IF NOT EXISTS 1_bronze_layer (
     id INT PRIMARY KEY AUTO_INCREMENT,
     `Datetime` VARCHAR(50),
