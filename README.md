@@ -31,3 +31,7 @@ L'objectif de ce projet est d'analyser la consommation électrique au Maroc, mes
 * **Saisonnalité :** Identification d'un pic de consommation résidentielle majeur à 20h pour l'ensemble des zones, et d'un creux réseau autour de 6h du matin.
 * **Corrélation Météorologique :** Démonstration mathématique (via Pandas) que la température est le facteur le plus fortement corrélé (0.73) à la hausse de la consommation, loin devant la vitesse du vent et l'humidité.
 * **Profilage Géographique :** Mise en évidence de la Zone 1 comme étant le pôle le plus énergivore, suggérant une forte densité urbaine ou industrielle.
+
+## Analyse de la Saisonnalité et Impact Météorologique (Visualisations)
+
+![Graphiques combinés des corrélations météo et de la consommation électrique](dashboard_meteo_consommation.png)
